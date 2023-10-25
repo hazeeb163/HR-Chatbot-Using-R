@@ -1,4 +1,4 @@
-# HR-Chatbot-Using-R
+# HR-Chatbot-Using-RASA
 Create a chatbot for efficient HR communication.
 
 RASA
