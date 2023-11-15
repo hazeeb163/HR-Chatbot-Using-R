@@ -1,5 +1,5 @@
 # HR-Chatbot-Using-RASA
-Create a chatbot for efficient HR communication.
+Create a chatbot for efficient HR communication using RASA.
 
 RASA
 Rasa is an open source machine learning framework for building AI assistants and chatbots. Mostly you don’t need any programming language experience to work in Rasa. Although there is something called “Rasa Action Server” where you need to write code in Python, that mainly used to trigger External actions like Calling Google API or REST API etc.
